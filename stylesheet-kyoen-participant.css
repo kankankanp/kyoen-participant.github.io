@@ -110,8 +110,9 @@ main{
 
 .participant img{
   display: block;
-  width: 800px;
-  height: 500px;
+  width: 1000px;
+  height: 600px;
+  margin: 0 auto;
 }
 
 .participant{
