@@ -108,6 +108,12 @@ main{
   font-size:30px;
 }
 
+.participant img{
+  display: block;
+  width: 800px;
+  height: 500px;
+}
+
 .participant{
   text-align: center;
 }
