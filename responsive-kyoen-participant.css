@@ -14,7 +14,7 @@
         display: block;
         font-size:40px;
         color:black;
-        position:absolute;
+        position:relative;
         top:30px;
         left:90%;
     }
@@ -37,15 +37,6 @@
     
     .side-list{
         display: block;
-    }
-    
-    .fa-bars{
-        display: block;
-        font-size:40px;
-        color:black;
-        position:absolute;
-        top:30px;
-        left:90%;
     }
 
     .participant img{
