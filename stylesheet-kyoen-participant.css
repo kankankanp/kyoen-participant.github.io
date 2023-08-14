@@ -106,13 +106,16 @@ main{
 
 .participant p{
   font-size:30px;
+  width:90%;
+  margin: 0 auto;
 }
 
 .participant img{
   display: block;
   width: 1000px;
   height: 600px;
-  margin: 0 auto;
+  margin: 20px auto;
+  object-fit: cover;
 }
 
 .participant{
